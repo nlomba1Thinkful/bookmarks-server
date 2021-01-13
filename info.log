@@ -1,0 +1,16 @@
+{"message":"Unauthorized request to path: /card","level":"error"}
+{"message":"Unauthorized request to path: /bookmark","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"URL is invalid","level":"error"}
+{"message":"URL is invalid","level":"error"}
+{"message":"URL is invalid","level":"error"}
+{"message":"URL is invalid","level":"error"}
+{"message":"URL is invalid","level":"error"}
+{"message":"Card with id c8213c85-579b-4eb7-921c-1c732c2cb81a created","level":"info"}
+{"message":"Bookmark with id 43a22a75-7639-48a2-b76f-0e23bc3a9acf created","level":"info"}
+{"message":"Bookmark with id asdf not found.","level":"error"}
+{"message":"Bookmark with id 43a22a75-7639-48a2-b76f-0e23bc3a9acf not found","level":"error"}
+{"message":"Bookmark with id 1e428d9d-7e2d-488f-9b56-82d6c658355d created","level":"info"}
+{"message":"Bookmark with id 1e428d9d-7e2d-488f-9b56-82d6c658355d deleted.","level":"info"}
+{"message":"Title is required","level":"error"}
